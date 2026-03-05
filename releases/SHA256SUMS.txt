@@ -1,0 +1,2 @@
+16906f9118b283f87d10d09c3e9fdd27379b2f0851d92e1e669a79d2dcdcec24  IgniSole-debug.apk
+0bf098cc4eb6265fbca509be4f8ad336dae791336b0a8e461c6600996f8ea8a3  IgniSole-release-unsigned.apk

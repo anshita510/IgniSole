@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Android / Gradle
+IgniSoleApplication/.gradle/
+IgniSoleApplication/.gradle-local/
+IgniSoleApplication/.idea/
+IgniSoleApplication/local.properties
+IgniSoleApplication/**/build/
+IgniSoleApplication/captures/
+IgniSoleApplication/*.iml
+
+# Packaging outputs
+shipments/
